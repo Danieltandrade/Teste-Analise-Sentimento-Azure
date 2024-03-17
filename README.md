@@ -1,10 +1,10 @@
 # Teste-Analise-Sentimento-Azure
 
-Neste README explicarei um caso de uso da Ferramenta de Análise de Sentimentos dentro da Plataforma de "AI Services" do "Microsoft Azure".
+Neste README explicarei um caso de uso da Ferramenta de Análise de Sentimentos dentro da Plataforma de __AI Services__ do __Microsoft Azure__.
 
 ## Criando um Recurso
 
-Primeiramente foi criado um novo recurso dentro do Portal "Microsoft Azure" para utiliação dos "Language" do "AI Services".
+Primeiramente foi criado um novo recurso dentro do Portal __Microsoft Azure__ para utiliação dos __Language__ do __AI Services__.
 
 ## Abrindo Azure Language Studio
 
@@ -24,15 +24,15 @@ Felizmente a Toyota pratica agora um preço mais justo comparado aos concorrente
 
 ### Ferramenta
 
-Para o desafio de aprendizagem foi escolhida a ferramenta "Analyze sentiment and mine opinions" para o análise de sentimentos dos textos escolhidos.
+Para o desafio de aprendizagem foi escolhida a ferramenta __Analyze sentiment and mine opinions__ para o análise de sentimentos dos textos escolhidos.
 
 ### Passos
 
-Com a ferramenta escolhida é inserido o primeiro texto acima, conforme "Imagem 1" abaixo.
+Com a ferramenta escolhida é inserido o primeiro texto acima, conforme __Imagem 1__ abaixo.
 
 <img src="Outputs/Insercao-texto.JPG">Imagem 1
 
-Após o texto inserido é só apertar o botão "RUN" que a ferramenta fará a analise de sentimento do texto, conforme "Imagem 2" e "Imagem 3".
+Após o texto inserido é só apertar o botão __"RUN"__ que a ferramenta fará a analise de sentimento do texto, conforme __Imagem 2__ e __Imagem 3__.
 
 <img src="Outputs/Resultado1.JPG">Imagem 2
 
@@ -41,15 +41,15 @@ Após o texto inserido é só apertar o botão "RUN" que a ferramenta fará a an
 
 Conforme podemos ver através do resultado a ferramenta concluiu que a opnião emitida pelo cliente do Hotel foi negativa e ela ficou insatisfeita com a experiência de se hospedar no Hotel.
 
-Também realizei outro teste com uma opinião positiva de um cliente a respeito da compra de um automóvel novo, conforme "Imagem 4" abaixo.
+Também realizei outro teste com uma opinião positiva de um cliente a respeito da compra de um automóvel novo, conforme __Imagem 4__ abaixo.
 
 <img src="Outputs/Analise-Sentimento-Positivo.JPG">Imagem 4
 
 ## Insights
 
-Este serviço de AI do "Microsoft Azure" para análise e identificação de sentimentos pode ser muito útil para empresas identificarem "feedbacks" de seus clientes, algo que pode ser muito difícil de ser realizado por um ser humano quando a empresa recebe dezenas, centenas ou até milhares de opniões de seus clientes em pouco tempo.
+Este serviço de AI do __Microsoft Azure__ para análise e identificação de sentimentos pode ser muito útil para empresas identificarem __feedbacks__ de seus clientes, algo que pode ser muito difícil de ser realizado por um ser humano quando a empresa recebe dezenas, centenas ou até milhares de opniões de seus clientes em pouco tempo.
 
-Com os "feedbacks" análisados, os dados podem ser utilizados para tomadas de decisões como melhorias nos produtos ou serviços, mudanças em campanhas de Marketing.
+Com os __feedbacks__ analisados, os dados podem ser utilizados para tomadas de decisões como melhorias nos produtos ou serviços, mudanças em campanhas de Marketing.
 
 ## Conclusão
 
