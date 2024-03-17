@@ -39,7 +39,7 @@ Após o texto inserido é só apertar o botão __"RUN"__ que a ferramenta fará 
 
 <img src="Outputs/Resultado2.JPG">Imagem 3
 
-Conforme podemos ver através do resultado a ferramenta concluiu que a opnião emitida pelo cliente do Hotel foi negativa e ela ficou insatisfeita com a experiência de se hospedar no Hotel.
+Conforme podemos ver através do resultado a ferramenta concluiu que a opinião emitida pelo cliente do Hotel foi negativa, ficando insatisfeita com a experiência de se hospedar no Hotel.
 
 Também realizei outro teste com uma opinião positiva de um cliente a respeito da compra de um automóvel novo, conforme __Imagem 4__ abaixo.
 
@@ -49,7 +49,7 @@ Também realizei outro teste com uma opinião positiva de um cliente a respeito 
 
 Este serviço de AI do __Microsoft Azure__ para análise e identificação de sentimentos pode ser muito útil para empresas identificarem __feedbacks__ de seus clientes, algo que pode ser muito difícil de ser realizado por um ser humano quando a empresa recebe dezenas, centenas ou até milhares de opniões de seus clientes em pouco tempo.
 
-Com os __feedbacks__ analisados, os dados podem ser utilizados para tomadas de decisões como melhorias nos produtos ou serviços, mudanças em campanhas de Marketing.
+Com os __feedbacks__ analisados, os dados podem ser utilizados para tomadas de decisões como melhorias nos produtos ou serviços e mudanças em campanhas de Marketing.
 
 ## Conclusão
 
