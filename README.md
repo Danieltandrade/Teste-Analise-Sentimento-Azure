@@ -1,1 +1,1 @@
-# Testte-Analise-Sentimento-Azure
+# Teste-Analise-Sentimento-Azure
