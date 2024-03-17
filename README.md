@@ -4,7 +4,7 @@ Neste README explicarei um caso de uso da Ferramenta de Análise de Sentimentos 
 
 ## Criando um Recurso
 
-Primeiramente foi criado um novo recurso dentro do Portal __Microsoft Azure__ para utiliação dos __Language__ do __AI Services__.
+Primeiramente foi criado um novo recurso dentro do Portal __Microsoft Azure__ para utilização da ferramenta __Language__ do __Microsoft Azure AI Services__.
 
 ## Abrindo Azure Language Studio
 
